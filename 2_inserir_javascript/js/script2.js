@@ -1,0 +1,1 @@
+console.log("Olá, estou dentro do script que está linkado dentro do body!");
